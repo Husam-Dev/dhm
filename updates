@@ -3,17 +3,17 @@
     {
       "Title": "Brand New Update";
       "Description": "A brand new shiny update";
-      "GameVersion": "V1.1";
+      "GameVersion": "V1.1"
     };
     {
       "Title": "Money Update";
       "Description": "Interesting description for update 1, this update is very good and has lots of new features and bug fixes, which can be listed here conveniently for you.";
-      "GameVersion": "V1.0";
+      "GameVersion": "V1.0"
     };
     {
       "Title": "Skibidi toilet baba dum Update";
       "Description": "Short description for update 2";
-      "GameVersion": "V0.75";
-    };
+      "GameVersion": "V0.75"
+    }
   ]
 };
