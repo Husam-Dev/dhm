@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "Title": "Public servers refresh after 12 hours\nSnapblox functions better\nPerformance boost / improvements\nStomp Leaderboard\nHelicopters now have 400 HP\nFixed many bugged tools\nFixed various other bugs 🐛",
-      "Description": "",
-      "GameVersion": " V1.63"
-    },
-    {
       "Title": "New bike phone app\nModified Revolver Cooldown from 0.19 to 0.15 seconds\nBugs fixes & Scripts optimizations",
       "Description": "",
       "GameVersion": " V1.64"
+    },
+    {
+      "Title": "Public servers refresh after 12 hours\nSnapblox functions better\nPerformance boost / improvements\nStomp Leaderboard\nHelicopters now have 400 HP\nFixed many bugged tools\nFixed various other bugs 🐛",
+      "Description": "",
+      "GameVersion": " V1.63"
     }
   ]
 }
